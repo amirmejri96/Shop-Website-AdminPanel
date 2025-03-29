@@ -35,3 +35,15 @@
         margin: 0;
     }
 }
+
+@media(max-width:500px) {
+    .sidebar {
+        padding: 10px 0px;
+    }
+    .sidebar p {
+        font-size: 10px;
+    }
+    .sidebar img {
+        width: 20px;
+    }
+}
